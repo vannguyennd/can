@@ -1,1 +1,1 @@
-This folder contains the data at machine instruction level at Windows 32 bit.
+This folder contains the data at the machine instruction level at Windows 32 bit.
